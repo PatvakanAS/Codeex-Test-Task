@@ -624,7 +624,7 @@ h2.beauty_hedding{
 .product_use_img {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
 }
 /* products in useend */
 
